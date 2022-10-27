@@ -1,1 +1,1 @@
-# 0046_Max7219_4Way_Animations_-_Sprites
+# 0046 Max7219 4Way Animations Sprites
